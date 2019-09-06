@@ -156,7 +156,7 @@
     <label>Loan Offer</label>
     <nameField>
         <displayFormat>LON-{0000000}</displayFormat>
-        <label>Loan Offer Name</label>
+        <label>Loan Offer Number</label>
         <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Loan Offers</pluralLabel>
