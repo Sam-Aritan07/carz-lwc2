@@ -1,0 +1,212 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef1"
+            },
+            "Name": "BMW X1",
+            "Product_Family__c": "@SedanRef",
+            "Description__c": "",
+            "Category__c": "Diesel",
+            "Level__c": "4",
+            "MSRP__c": 25000,
+            "Picture_URL__c": "/resource/1563540396000/ProductImages/blacksedan.png"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef2"
+            },
+            "Name": "BMW X2",
+            "Product_Family__c": "@HatchbackRef",
+            "Description__c": "",
+            "Category__c": "Petrol",
+            "Level__c": "5",
+            "MSRP__c": 26000,
+            "Picture_URL__c": "/resource/1563540396000/ProductImages/bluehatchback.png"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef3"
+            },
+            "Name": "BMW X3",
+            "Product_Family__c": "@SedanRef",
+            "Description__c": "",
+            "MSRP__c": 27000,
+            "Category__c": "Petrol",
+            "Level__c": "5",
+            "Picture_URL__c": "/resource/1563540396000/ProductImages/bluesedan.png"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef4"
+            },
+            "Name": "BMW X4",
+            "Product_Family__c": "@SUVRef",
+            "Description__c": "",
+            "MSRP__c": 28000,
+            "Category__c": "Petrol",
+            "Level__c": "6",
+            "Picture_URL__c": "/resource/1563540396000/ProductImages/bluesuv.png"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef5"
+            },
+            "Name": "Toyota X1",
+            "Product_Family__c": "@HatchbackRef",
+            "Description__c": "",
+            "MSRP__c": 70000,
+            "Category__c": "Diesel",
+            "Level__c": "4",
+            "Picture_URL__c": "/resource/1563540396000/ProductImages/greenhatchback.png"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef6"
+            },
+            "Name": "Toyota X2",
+            "Product_Family__c": "@SUVRef",
+            "Description__c": "",
+            "MSRP__c": 72000,
+            "Category__c": "Gas",
+            "Level__c": "5",
+            "Picture_URL__c": "/resource/1563540396000/ProductImages/greensuv.png"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef7"
+            },
+            "Name": "Toyota X3",
+            "Product_Family__c": "@SedanRef",
+            "Description__c": "",
+            "MSRP__c": 74000,
+            "Category__c": "Petrol",
+            "Level__c": "5",
+            "Picture_URL__c": "/resource/1563540396000/ProductImages/redsedan.png"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef8"
+            },
+            "Name": "Toyota X4",
+            "Product_Family__c": "@SUVRef",
+            "Description__c": "",
+            "MSRP__c": 78000,
+            "Category__c": "Petrol",
+            "Level__c": "6",
+            "Picture_URL__c": "/resource/1563540396000/ProductImages/redsuv.png"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef9"
+            },
+            "Name": "AUDI X1",
+            "Product_Family__c": "@HatchbackRef",
+            "Description__c": "",
+            "MSRP__c": 40000,
+            "Category__c": "Diesel",
+            "Level__c": "4",
+            "Picture_URL__c": "/resource/1563540396000/ProductImages/silverhatchback.png"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef10"
+            },
+            "Name": "Audi X2",
+            "Product_Family__c": "@SUVRef",
+            "Description__c": "",
+            "MSRP__c": 43000,
+            "Category__c": "Gas",
+            "Level__c": "5",
+            "Picture_URL__c": "/resource/1563540396000/ProductImages/taupesuv.png"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef11"
+            },
+            "Name": "Audi X3",
+            "Product_Family__c": "@HatchbackRef",
+            "Description__c": "",
+            "MSRP__c": 46000,
+            "Category__c": "Petrol",
+            "Level__c": "5",
+            "Picture_URL__c": "/resource/1563540396000/ProductImages/whitehatchback.png"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef12"
+            },
+            "Name": "Audi X4",
+            "Product_Family__c": "@SedanRef",
+            "Description__c": "",
+            "MSRP__c": 49000,
+            "Category__c": "Petrol",
+            "Level__c": "6",
+            "Picture_URL__c": "/resource/1563540396000/ProductImages/whitesedan.png"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef13"
+            },
+            "Name": "Porsche X1",
+            "Product_Family__c": "@HatchbackRef",
+            "Description__c": "",
+            "MSRP__c": 12000,
+            "Category__c": "Diesel",
+            "Level__c": "4",
+            "Picture_URL__c": "/resource/1563540396000/ProductImages/classiccar.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef14"
+            },
+            "Name": "Porsche X2",
+            "Product_Family__c": "@SUVRef",
+            "Description__c": "",
+            "MSRP__c": 14000,
+            "Category__c": "Gas",
+            "Level__c": "5",
+            "Picture_URL__c": "/resource/1563540396000/ProductImages/bigwhitesuv.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef15"
+            },
+            "Name": "Porsche X3",
+            "Product_Family__c": "@SUVRef",
+            "Description__c": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "MSRP__c": 28000,
+            "Category__c": "Petrol",
+            "Level__c": "5",
+            "Picture_URL__c": "/resource/1563540396000/ProductImages/jeep.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef16"
+            },
+            "Name": "Porsche X4",
+            "Product_Family__c": "@SedanRef",
+            "Description__c": "",
+            "MSRP__c": 19000,
+            "Category__c": "Petrol",
+            "Level__c": "6",
+            "Picture_URL__c": "/resource/1563540396000/ProductImages/alloywheels.jpg"
+        }
+    ]
+}

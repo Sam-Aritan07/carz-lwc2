@@ -1,0 +1,28 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Product_Family__c",
+                "referenceId": "SedanRef"
+            },
+            "Name": "Sedan",
+            "Description__c": "Sedan cars are luxurious and have more boot space."
+        },
+        {
+            "attributes": {
+                "type": "Product_Family__c",
+                "referenceId": "HatchbackRef"
+            },
+            "Name": "Hatchback",
+            "Description__c": "Hatchbacks are compact cars and best in terms of budget."
+        },
+        {
+            "attributes": {
+                "type": "Product_Family__c",
+                "referenceId": "SUVRef"
+            },
+            "Name": "SUV",
+            "Description__c": "SUVs are sports utility vehicles and have high ground clearance. "
+        }
+    ]
+}
